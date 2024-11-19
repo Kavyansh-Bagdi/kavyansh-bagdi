@@ -1,6 +1,11 @@
+<style>
+    body{
+        background-color:#000000;
+    }
+</style>
+
 <div align="center"><img width="500px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F416610%2Fscreenshots%2F4801105%2Fcoding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif&f=1&nofb=1&ipt=d1a9652cbfd43d6658ac70c7c5cb0bb5331a78b840346324b496ba057bf1b8f2&ipo=images">
 </div>
-
 <h1 align="center">Hi 👋, I'm Kavyansh Bagdi</h1>
 <h3 align="center">Student | Development Enthusiast</h3>
 - 🌱 I’m currently learning **Backend Development** & **Machine Learning**<br>
@@ -35,7 +40,6 @@ Hello, My name is **Kavyansh Bagdi** currently i am student of **B.tech CSE** @ 
 <li>Std FIDE Rating : 1449</li>
 </ul>
 </div>
-
 
 ## Technologies
 - Programming & Other Computer Languages
