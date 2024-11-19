@@ -23,7 +23,6 @@ Hello, My name is **Kavyansh Bagdi** currently i am student of **B.tech CSE** @ 
 <li>CGPA: 7.56/10.0 </li>
 </ul>
 </div>
-<br>
 <div>
 <div>Kendriya Vidyalaya No.l Pratap Nagar, Udaipur ( Raj. ),12th Standard Physics Chemistry & Mathematics with Computer Science</div>
 <div>Jun 2021 – March 2022</div>
@@ -31,7 +30,6 @@ Hello, My name is **Kavyansh Bagdi** currently i am student of **B.tech CSE** @ 
 <li>Percentage: 92.2%</li>
 </ul>
 </div>
-<br>
 <div>
 <div>Vidya Bhawan Public School, Udaipur ( Raj. ),10th Standard</div>
 <div>Jun 2019 – March 2020</div>
