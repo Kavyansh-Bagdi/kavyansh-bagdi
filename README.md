@@ -8,4 +8,4 @@ Just a student building web apps, exploring backend development, and learning ho
 
 ### Facts 
   * I do [Touch Typing](https://monkeytype.com/profile/KavyByte)
-  * I play chess here : [Chess.com](https://frontendmasters.com/courses/rust-ts-devs/) & [Lichess](https://lichess.org/@/KavyByte)
+  * I play chess here : [Chess.com](https://www.chess.com/member/kavybyte) & [Lichess](https://lichess.org/@/KavyByte)
