@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, I'm Kavyansh Bagdi</h1>
-<h3 align="center">Student | Development Enthusiast</h3>
+### Hey, I am Kavyansh Bagdi  
 
-- 🌱 I’m currently learning **Backend Development**
+Just a student building web apps, exploring backend development, and learning how to code.  
 
-- 📫 How to reach me **kavyanshbagdi224@gmail.com**
+* I’m currently diving into **Backend Development**  
+* Passionate about **problem-solving and clean code**  
+* I might break things, but I also fix them (eventually 😆)
+
+### Facts 
+  * I do [Touch Typing](https://monkeytype.com/profile/KavyByte)
+  * I play chess here : [Chess.com](https://frontendmasters.com/courses/rust-ts-devs/) & [Lichess](https://lichess.org/@/KavyByte)
