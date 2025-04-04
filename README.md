@@ -8,5 +8,4 @@ Just a student building web apps, exploring backend development, and learning ho
 
 ### Facts 
   * I do [LeetCode](https://leetcode.com/u/kavyanshbagdi224/)
-  * I know [Touch Typing](https://monkeytype.com/profile/KavyByte)
   * I play chess here : [Chess.com](https://www.chess.com/member/kavybyte) & [Lichess](https://lichess.org/@/KavyByte)
