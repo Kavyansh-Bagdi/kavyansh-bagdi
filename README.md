@@ -6,5 +6,5 @@ Just a student building web apps, exploring development, and learning how to cod
 * Passionate about **problem-solving and clean code**  
 
 ### Facts 
-  * I do [LeetCode](https://leetcode.com/u/kavyanshbagdi224/), [Codeforces](https://codeforces.com/profile/Kavyansh-Bagdi) & [Codechef](https://www.codechef.com/users/kavyanshbagdi)
+  * I do [LeetCode](https://leetcode.com/u/kavyanshbagdi/), [Codeforces](https://codeforces.com/profile/Kavyansh-Bagdi) & [Codechef](https://www.codechef.com/users/kavyanshbagdi)
   * I play chess here : [Chess.com](https://www.chess.com/member/kavybyte) & [Lichess](https://lichess.org/@/KavyByte)
