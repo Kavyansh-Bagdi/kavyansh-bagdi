@@ -3,7 +3,6 @@
 Just a student building web apps, exploring development, and learning how to code.  
 
 * I’m currently diving into **Development**  
-* Passionate about **problem-solving and clean code**  
 
 ### Facts 
   * I do [LeetCode](https://leetcode.com/u/kavyanshbagdi/), [Codeforces](https://codeforces.com/profile/Kavyansh-Bagdi) & [Codechef](https://www.codechef.com/users/kavyanshbagdi)
