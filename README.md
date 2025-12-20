@@ -1,6 +1,6 @@
 ### Hey, I am [Kavyansh Bagdi](https://kavyansh-bagdi.github.io/portfolio/)  
 
-Just a student building web apps, exploring development, and learning how to code.  
+Just a student building web apps, exploring development, AI/ML and learning how to code.  
 
 * I’m currently diving into **Development**  
 
