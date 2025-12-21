@@ -1,4 +1,4 @@
-### Hey, I am [Kavyansh Bagdi](https://kavyansh-bagdi.github.io/portfolio/)  
+### Hey, I am [Kavyansh Bagdi](https://kavyansh-bagdi.github.io/)  
 
 Just a student building web apps, exploring development, AI/ML and learning how to code.  
 
