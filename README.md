@@ -5,4 +5,4 @@ Just a student building web apps, exploring development, AI/ML and learning how 
 * I’m currently diving into **Development**  
 
 ### Facts 
-  * I do [LeetCode](https://leetcode.com/u/kavyanshbagdi/), [Codeforces](https://codeforces.com/profile/Kavyansh-Bagdi) & [Codechef](https://www.codechef.com/users/kavyanshbagdi)
+  * I do [LeetCode](https://leetcode.com/u/kavyanshbagdi/), [Codeforces](https://codeforces.com/profile/Kavyansh-Bagdi) & [Codechef](https://www.codechef.com/users/kavyanshbagdi) — summary available on [Codolio](https://codolio.com/profile/Kavyansh%20Bagdi)
